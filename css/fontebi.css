@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Poppins';
+    font-family: 'Poppins-Bold';
     src: url('../fontebi/Poppins-Bold.eot');
     src: url('../fontebi/Poppins-Bold.eot?#iefix') format('embedded-opentype'),
         url('../fontebi/Poppins-Bold.woff2') format('woff2'),
@@ -13,7 +13,7 @@
 
 
 @font-face {
-    font-family: 'Poppins';
+    font-family: 'Poppins-ExtraBold';
     src: url('../fontebi/Poppins-ExtraBold.eot');
     src: url('../fontebi/Poppins-ExtraBold.eot?#iefix') format('embedded-opentype'),
         url('../fontebi/Poppins-ExtraBold.woff2') format('woff2'),
